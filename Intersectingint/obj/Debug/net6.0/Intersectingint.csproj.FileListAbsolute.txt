@@ -1,0 +1,14 @@
+C:\Demos\stringManipulation\Intersectingint\bin\Debug\net6.0\Intersectingint.exe
+C:\Demos\stringManipulation\Intersectingint\bin\Debug\net6.0\Intersectingint.deps.json
+C:\Demos\stringManipulation\Intersectingint\bin\Debug\net6.0\Intersectingint.runtimeconfig.json
+C:\Demos\stringManipulation\Intersectingint\bin\Debug\net6.0\Intersectingint.dll
+C:\Demos\stringManipulation\Intersectingint\bin\Debug\net6.0\ref\Intersectingint.dll
+C:\Demos\stringManipulation\Intersectingint\bin\Debug\net6.0\Intersectingint.pdb
+C:\Demos\stringManipulation\Intersectingint\obj\Debug\net6.0\Intersectingint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\stringManipulation\Intersectingint\obj\Debug\net6.0\Intersectingint.AssemblyInfoInputs.cache
+C:\Demos\stringManipulation\Intersectingint\obj\Debug\net6.0\Intersectingint.AssemblyInfo.cs
+C:\Demos\stringManipulation\Intersectingint\obj\Debug\net6.0\Intersectingint.csproj.CoreCompileInputs.cache
+C:\Demos\stringManipulation\Intersectingint\obj\Debug\net6.0\Intersectingint.dll
+C:\Demos\stringManipulation\Intersectingint\obj\Debug\net6.0\ref\Intersectingint.dll
+C:\Demos\stringManipulation\Intersectingint\obj\Debug\net6.0\Intersectingint.pdb
+C:\Demos\stringManipulation\Intersectingint\obj\Debug\net6.0\Intersectingint.genruntimeconfig.cache

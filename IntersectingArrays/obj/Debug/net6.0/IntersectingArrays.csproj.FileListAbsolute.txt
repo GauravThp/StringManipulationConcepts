@@ -1,0 +1,14 @@
+C:\Demos\stringManipulation\IntersectingArrays\bin\Debug\net6.0\IntersectingArrays.exe
+C:\Demos\stringManipulation\IntersectingArrays\bin\Debug\net6.0\IntersectingArrays.deps.json
+C:\Demos\stringManipulation\IntersectingArrays\bin\Debug\net6.0\IntersectingArrays.runtimeconfig.json
+C:\Demos\stringManipulation\IntersectingArrays\bin\Debug\net6.0\IntersectingArrays.dll
+C:\Demos\stringManipulation\IntersectingArrays\bin\Debug\net6.0\ref\IntersectingArrays.dll
+C:\Demos\stringManipulation\IntersectingArrays\bin\Debug\net6.0\IntersectingArrays.pdb
+C:\Demos\stringManipulation\IntersectingArrays\obj\Debug\net6.0\IntersectingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\stringManipulation\IntersectingArrays\obj\Debug\net6.0\IntersectingArrays.AssemblyInfoInputs.cache
+C:\Demos\stringManipulation\IntersectingArrays\obj\Debug\net6.0\IntersectingArrays.AssemblyInfo.cs
+C:\Demos\stringManipulation\IntersectingArrays\obj\Debug\net6.0\IntersectingArrays.csproj.CoreCompileInputs.cache
+C:\Demos\stringManipulation\IntersectingArrays\obj\Debug\net6.0\IntersectingArrays.dll
+C:\Demos\stringManipulation\IntersectingArrays\obj\Debug\net6.0\ref\IntersectingArrays.dll
+C:\Demos\stringManipulation\IntersectingArrays\obj\Debug\net6.0\IntersectingArrays.pdb
+C:\Demos\stringManipulation\IntersectingArrays\obj\Debug\net6.0\IntersectingArrays.genruntimeconfig.cache

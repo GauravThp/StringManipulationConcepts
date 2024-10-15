@@ -1,0 +1,15 @@
+C:\Demos\stringManipulation\SumofDigitsEven\bin\Debug\net6.0\SumofDigitsEven.exe
+C:\Demos\stringManipulation\SumofDigitsEven\bin\Debug\net6.0\SumofDigitsEven.deps.json
+C:\Demos\stringManipulation\SumofDigitsEven\bin\Debug\net6.0\SumofDigitsEven.runtimeconfig.json
+C:\Demos\stringManipulation\SumofDigitsEven\bin\Debug\net6.0\SumofDigitsEven.dll
+C:\Demos\stringManipulation\SumofDigitsEven\bin\Debug\net6.0\ref\SumofDigitsEven.dll
+C:\Demos\stringManipulation\SumofDigitsEven\bin\Debug\net6.0\SumofDigitsEven.pdb
+C:\Demos\stringManipulation\SumofDigitsEven\obj\Debug\net6.0\SumofDigitsEven.csproj.AssemblyReference.cache
+C:\Demos\stringManipulation\SumofDigitsEven\obj\Debug\net6.0\SumofDigitsEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\stringManipulation\SumofDigitsEven\obj\Debug\net6.0\SumofDigitsEven.AssemblyInfoInputs.cache
+C:\Demos\stringManipulation\SumofDigitsEven\obj\Debug\net6.0\SumofDigitsEven.AssemblyInfo.cs
+C:\Demos\stringManipulation\SumofDigitsEven\obj\Debug\net6.0\SumofDigitsEven.csproj.CoreCompileInputs.cache
+C:\Demos\stringManipulation\SumofDigitsEven\obj\Debug\net6.0\SumofDigitsEven.dll
+C:\Demos\stringManipulation\SumofDigitsEven\obj\Debug\net6.0\ref\SumofDigitsEven.dll
+C:\Demos\stringManipulation\SumofDigitsEven\obj\Debug\net6.0\SumofDigitsEven.pdb
+C:\Demos\stringManipulation\SumofDigitsEven\obj\Debug\net6.0\SumofDigitsEven.genruntimeconfig.cache

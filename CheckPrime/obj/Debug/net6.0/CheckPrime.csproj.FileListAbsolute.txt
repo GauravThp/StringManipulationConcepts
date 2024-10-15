@@ -1,0 +1,15 @@
+C:\Demos\stringManipulation\CheckPrime\bin\Debug\net6.0\CheckPrime.exe
+C:\Demos\stringManipulation\CheckPrime\bin\Debug\net6.0\CheckPrime.deps.json
+C:\Demos\stringManipulation\CheckPrime\bin\Debug\net6.0\CheckPrime.runtimeconfig.json
+C:\Demos\stringManipulation\CheckPrime\bin\Debug\net6.0\CheckPrime.dll
+C:\Demos\stringManipulation\CheckPrime\bin\Debug\net6.0\ref\CheckPrime.dll
+C:\Demos\stringManipulation\CheckPrime\bin\Debug\net6.0\CheckPrime.pdb
+C:\Demos\stringManipulation\CheckPrime\obj\Debug\net6.0\CheckPrime.csproj.AssemblyReference.cache
+C:\Demos\stringManipulation\CheckPrime\obj\Debug\net6.0\CheckPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\stringManipulation\CheckPrime\obj\Debug\net6.0\CheckPrime.AssemblyInfoInputs.cache
+C:\Demos\stringManipulation\CheckPrime\obj\Debug\net6.0\CheckPrime.AssemblyInfo.cs
+C:\Demos\stringManipulation\CheckPrime\obj\Debug\net6.0\CheckPrime.csproj.CoreCompileInputs.cache
+C:\Demos\stringManipulation\CheckPrime\obj\Debug\net6.0\CheckPrime.dll
+C:\Demos\stringManipulation\CheckPrime\obj\Debug\net6.0\ref\CheckPrime.dll
+C:\Demos\stringManipulation\CheckPrime\obj\Debug\net6.0\CheckPrime.pdb
+C:\Demos\stringManipulation\CheckPrime\obj\Debug\net6.0\CheckPrime.genruntimeconfig.cache

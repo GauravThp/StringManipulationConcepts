@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9718188b-87d6-4b4c-8651-26084087f5bc": {
+      "ProjectGuid": "9718188b-87d6-4b4c-8651-26084087f5bc",
+      "DisplayName": "strings",
+      "ColorIndex": 0
+    },
+    "5b028379-5901-443f-9f6f-64de157da720": {
+      "ProjectGuid": "5b028379-5901-443f-9f6f-64de157da720",
+      "DisplayName": "Substring",
+      "ColorIndex": 1
+    },
+    "b3844152-01c6-42f1-bacf-2e92904df5fb": {
+      "ProjectGuid": "b3844152-01c6-42f1-bacf-2e92904df5fb",
+      "DisplayName": "CheckPrime",
+      "ColorIndex": 2
+    },
+    "c13c2d4b-c179-445f-8ac7-a61e98233c43": {
+      "ProjectGuid": "c13c2d4b-c179-445f-8ac7-a61e98233c43",
+      "DisplayName": "Intersectingint",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7bbe9f6b-39ce-4305-8a7d-87fc1ce3cee6": {
+      "ProjectGuid": "7bbe9f6b-39ce-4305-8a7d-87fc1ce3cee6",
+      "DisplayName": "FindEvenDigits",
+      "ColorIndex": 4
+    },
+    "26dfcc59-192d-40dd-81ca-20e4edabcb4b": {
+      "ProjectGuid": "26dfcc59-192d-40dd-81ca-20e4edabcb4b",
+      "DisplayName": "IntersectingArrays",
+      "ColorIndex": 5
+    },
+    "730f5c4a-eb41-4d8c-bfff-3852ada004ec": {
+      "ProjectGuid": "730f5c4a-eb41-4d8c-bfff-3852ada004ec",
+      "DisplayName": "SumofDigitsEven",
+      "ColorIndex": 6
+    },
+    "57e7d6a1-370e-42d8-9a29-3e2c08eadc40": {
+      "ProjectGuid": "57e7d6a1-370e-42d8-9a29-3e2c08eadc40",
+      "DisplayName": "interabsimplent",
+      "ColorIndex": 7
+    },
+    "1c660545-10bc-4b70-89f8-e07227363201": {
+      "ProjectGuid": "1c660545-10bc-4b70-89f8-e07227363201",
+      "DisplayName": "interfaceexample",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

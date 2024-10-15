@@ -1,0 +1,15 @@
+C:\Demos\stringManipulation\FindEvenDigits\bin\Debug\net6.0\FindEvenDigits.exe
+C:\Demos\stringManipulation\FindEvenDigits\bin\Debug\net6.0\FindEvenDigits.deps.json
+C:\Demos\stringManipulation\FindEvenDigits\bin\Debug\net6.0\FindEvenDigits.runtimeconfig.json
+C:\Demos\stringManipulation\FindEvenDigits\bin\Debug\net6.0\FindEvenDigits.dll
+C:\Demos\stringManipulation\FindEvenDigits\bin\Debug\net6.0\ref\FindEvenDigits.dll
+C:\Demos\stringManipulation\FindEvenDigits\bin\Debug\net6.0\FindEvenDigits.pdb
+C:\Demos\stringManipulation\FindEvenDigits\obj\Debug\net6.0\FindEvenDigits.csproj.AssemblyReference.cache
+C:\Demos\stringManipulation\FindEvenDigits\obj\Debug\net6.0\FindEvenDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\stringManipulation\FindEvenDigits\obj\Debug\net6.0\FindEvenDigits.AssemblyInfoInputs.cache
+C:\Demos\stringManipulation\FindEvenDigits\obj\Debug\net6.0\FindEvenDigits.AssemblyInfo.cs
+C:\Demos\stringManipulation\FindEvenDigits\obj\Debug\net6.0\FindEvenDigits.csproj.CoreCompileInputs.cache
+C:\Demos\stringManipulation\FindEvenDigits\obj\Debug\net6.0\FindEvenDigits.dll
+C:\Demos\stringManipulation\FindEvenDigits\obj\Debug\net6.0\ref\FindEvenDigits.dll
+C:\Demos\stringManipulation\FindEvenDigits\obj\Debug\net6.0\FindEvenDigits.pdb
+C:\Demos\stringManipulation\FindEvenDigits\obj\Debug\net6.0\FindEvenDigits.genruntimeconfig.cache

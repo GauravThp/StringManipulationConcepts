@@ -1,0 +1,14 @@
+C:\Demos\stringManipulation\interabsimplent\bin\Debug\net6.0\interabsimplent.exe
+C:\Demos\stringManipulation\interabsimplent\bin\Debug\net6.0\interabsimplent.deps.json
+C:\Demos\stringManipulation\interabsimplent\bin\Debug\net6.0\interabsimplent.runtimeconfig.json
+C:\Demos\stringManipulation\interabsimplent\bin\Debug\net6.0\interabsimplent.dll
+C:\Demos\stringManipulation\interabsimplent\bin\Debug\net6.0\ref\interabsimplent.dll
+C:\Demos\stringManipulation\interabsimplent\bin\Debug\net6.0\interabsimplent.pdb
+C:\Demos\stringManipulation\interabsimplent\obj\Debug\net6.0\interabsimplent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\stringManipulation\interabsimplent\obj\Debug\net6.0\interabsimplent.AssemblyInfoInputs.cache
+C:\Demos\stringManipulation\interabsimplent\obj\Debug\net6.0\interabsimplent.AssemblyInfo.cs
+C:\Demos\stringManipulation\interabsimplent\obj\Debug\net6.0\interabsimplent.csproj.CoreCompileInputs.cache
+C:\Demos\stringManipulation\interabsimplent\obj\Debug\net6.0\interabsimplent.dll
+C:\Demos\stringManipulation\interabsimplent\obj\Debug\net6.0\ref\interabsimplent.dll
+C:\Demos\stringManipulation\interabsimplent\obj\Debug\net6.0\interabsimplent.pdb
+C:\Demos\stringManipulation\interabsimplent\obj\Debug\net6.0\interabsimplent.genruntimeconfig.cache
